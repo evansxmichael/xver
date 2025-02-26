@@ -1,2 +1,2 @@
-# DictionaryApp
-My Dictionary App
+# XVER_DictionaryApp
+My XVER_Dictionary App
